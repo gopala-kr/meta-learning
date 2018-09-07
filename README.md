@@ -6,10 +6,6 @@
 
 --------------
 
-## Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning
-
-
-
 -  **Meta-Learning for Semi-Supervised Few-Shot Classification.** ICLR 2018.
 -  **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
 -  **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
@@ -26,8 +22,6 @@
 -  **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint arXiv:1803.01118 (2018).
 -  **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
 -  **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
-
-
 
 
 -------------
