@@ -6,21 +6,21 @@
 
 --------------
 
--  **Meta-Learning for Semi-Supervised Few-Shot Classification.** ICLR 2018.
--  **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
--  **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
--  **Meta-Gradient Reinforcement Learning** arXiv preprint arXiv:1805.09801 (2018).
--  **Learning a Prior over Intent via Meta-Inverse Reinforcement Learning** arXiv preprint arXiv:1805.12573 (2018).
-- **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.02817 (2018).
--  **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint arXiv:1806.04640(2018).
--  **Meta Learner with Linear Nulling** arXiv preprint arXiv:1806.01010 (2018).
--  **Bayesian Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.03836 (2018).
--  **Meta-Reinforcement Learning of Structured Exploration Strategies** arXiv preprint arXiv:1802.07245 (2018).
--  **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint arXiv:1803.11347 (2018).
--  **Evolved policy gradients** arXiv preprint arXiv:1802.04821 (2018).
--  **Learning to Explore with Meta-Policy Gradient** arXiv preprint arXiv:1803.05044 (2018).
--  **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint arXiv:1803.01118 (2018).
--  **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
+-  **Meta-Learning for Semi-Supervised Few-Shot Classification.** [paper](https://openreview.net/pdf?id=HJcSzz-CZ) ICLR 2018.
+-  **Machine Theory of Mind.** arXiv preprint [arXiv](arXiv:1802.07740) (2018).
+-  **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint [arXiv](arXiv:1710.10304) (2017).
+-  **Meta-Gradient Reinforcement Learning** arXiv preprint [arXiv](arXiv:1805.09801) (2018).
+-  **Learning a Prior over Intent via Meta-Inverse Reinforcement Learning** arXiv preprint [arXiv](arXiv:1805.12573) (2018).
+- **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint [arXiv](arXiv:1806.02817) (2018).
+-  **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint [arXiv](arXiv:1806.04640)(2018).
+-  **Meta Learner with Linear Nulling** arXiv preprint [arXiv](arXiv:1806.01010) (2018).
+-  **Bayesian Model-Agnostic Meta-Learning** arXiv preprint [arXiv](arXiv:1806.03836) (2018).
+-  **Meta-Reinforcement Learning of Structured Exploration Strategies** arXiv preprint [arXiv](arXiv:1802.07245) (2018).
+-  **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint [arXiv](arXiv:1803.11347) (2018).
+-  **Evolved policy gradients** arXiv preprint [arXiv](arXiv:1802.04821) (2018).
+-  **Learning to Explore with Meta-Policy Gradient** arXiv preprint [arXiv](arXiv:1803.05044) (2018).
+-  **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint [arXiv](arXiv:1803.01118) (2018).
+-  **Meta-learning with differentiable closed-form solvers** arXiv preprint [arXiv](arXiv:1805.08136) (2018).
 -  **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
 
 
