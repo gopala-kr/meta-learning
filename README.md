@@ -66,9 +66,8 @@ Review papers-
 
 -------------
 
-- Meta-learning in reinforcement learning. []() 2003.
-- Learning to learn using gradient descent. 
- 2001.
+- Meta-learning in reinforcement learning. 2003.
+- Learning to learn using gradient descent. 2001.
 - A meta-learning method based on temporal difference error.  2009.
 - Learning to learn: Introduction and overview.  1998.
 -  Meta-learning with backpropagation.  2001.
