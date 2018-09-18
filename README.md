@@ -33,36 +33,36 @@ Review papers-
 -  Learning to learn by gradient descent by gradient descent. [[arxiv](https://arxiv.org/abs/1606.04474)] , 2016
 -  Using fast weights to attend to the recent past. [[arxiv](https://arxiv.org/pdf/1610.06258.pdf)]  2016
 -  Hypernetworks. In ICLR 2017, [[arxiv](https://arxiv.org/pdf/1609.09106.pdf)] .
--  Siamese neural networks for one-shot image recognition. .
--  One-shot learning by inverting a compositional causal process.  2013.
--  Meta-learning with memory-augmented neural networks.  2016.
--  Matching networks for one shot learning.  2016.
--  Learning to remember rare events. In ICLR 2017, 2017.
--  Learning to navigate in complex environments.  DeepMind, 2016.
--  Neural architecture search with reinforcement learning.  ICLR 2017, 2016.
--  Rl2: Fast reinforcement learning via slow reinforcement learning.  UC Berkeley and OpenAI, 2016.
--  Learning to optimize. (ICLR), 2017.
--  Towards a neural statistician.  (ICLR), 2017.
--  Actor-mimic: Deep multitask and transfer reinforcement learning.  (ICLR), 2016.
--  Optimization as a model for few-shot learning.  (ICLR), 2017.
--  Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. .
--  Learning to Learn for Global Optimization of Black Box Functions. 
--  Meta Networks.  2017.
--  One-Shot Imitation Learning.  2017.
--  Active One-shot Learning.  2017.
--  Learned Optimizers that Scale and Generalize.  2017.
--  Low-shot visual object recognition (2016).
--  Learning to reinforcement learn.  2016.
--  Learning to Learn: Meta-Critic Networks for Sample Efficient Learning.  2017.
--  Meta-SGD: Learning to Learn Quickly for Few Shot Learning.  2017.
--  Meta-Learning with Temporal Convolutions.  2017.
--  Meta Learning Shared Hierarchies.  2017.
--  One-shot visual imitation learning via meta-learning.  2017.
--  Learning to Compare: Relation Network for Few Shot Learning.  2017.
--  Human-level concept learning through probabilistic program induction.  2015.
--  Neural task programming: Learning to generalize across hierarchical tasks.  2017.
--  Learning feed-forward one-shot learners. 
--  Learning to learn: Model regression networks for easy small sample learning.  2016.
+-  Siamese neural networks for one-shot image recognition. [[arxiv](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)]
+-  One-shot learning by inverting a compositional causal process.[[arxiv](https://cims.nyu.edu/~brenden/LakeEtAlNips2013.pdf)]  2013.
+-  Meta-learning with memory-augmented neural networks.[[arxiv](http://proceedings.mlr.press/v48/santoro16.pdf)]  2016.
+-  Matching networks for one shot learning.[[arxiv](https://arxiv.org/pdf/1606.04080.pdf)]  2016.
+-  Learning to remember rare events.[[arxiv](https://arxiv.org/pdf/1703.03129.pdf)] In ICLR 2017.
+-  Learning to navigate in complex environments.[[arxiv](https://arxiv.org/pdf/1611.03673.pdf)]  DeepMind, 2016.
+-  Neural architecture search with reinforcement learning. [[arxiv](https://arxiv.org/pdf/1611.01578.pdf)] ICLR 2017.
+-  Rl2: Fast reinforcement learning via slow reinforcement learning.  UC Berkeley and OpenAI,[[arxiv](https://arxiv.org/pdf/1611.02779.pdf)] 2016.
+-  Learning to optimize. (ICLR),[[arxiv](https://arxiv.org/pdf/1606.01885.pdf)]  2017.
+-  Towards a neural statistician.[[arxiv](https://arxiv.org/pdf/1606.02185.pdf)]  (ICLR), 2017.
+-  Actor-mimic: Deep multitask and transfer reinforcement learning. [[arxiv](https://arxiv.org/pdf/1511.06342.pdf)] (ICLR), 2016.
+-  Optimization as a model for few-shot learning. [[arxiv](https://openreview.net/pdf?id=rJY0-Kcll)] (ICLR), 2017.
+-  Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.[[arxiv](https://arxiv.org/pdf/1703.03400.pdf)]
+-  Learning to Learn for Global Optimization of Black Box Functions. [[arxiv](https://arxiv.org/pdf/1611.03824v1.pdf)]
+-  Meta Networks.[[arxiv](https://arxiv.org/pdf/1703.00837.pdf)]  2017.
+-  One-Shot Imitation Learning.[[arxiv](https://arxiv.org/pdf/1703.07326.pdf)]  2017.
+-  Active One-shot Learning.[[arxiv](https://arxiv.org/pdf/1702.06559.pdf)]  2017.
+-  Learned Optimizers that Scale and Generalize.[[arxiv](https://arxiv.org/pdf/1703.04813.pdf)]  2017.
+-  Low-shot visual object recognition (2016).[[arxiv](https://arxiv.org/pdf/1606.02819.pdf)]
+-  Learning to reinforcement learn.[[arxiv](https://arxiv.org/pdf/1611.05763.pdf)]  2016.
+-  Learning to Learn: Meta-Critic Networks for Sample Efficient Learning. [[arxiv](https://arxiv.org/pdf/1706.09529.pdf)] 2017.
+-  Meta-SGD: Learning to Learn Quickly for Few Shot Learning. [[arxiv](https://arxiv.org/pdf/1707.09835.pdf)] 2017.
+-  Meta-Learning with Temporal Convolutions.[[arxiv](https://arxiv.org/pdf/1707.03141.pdf)]  2017.
+-  Meta Learning Shared Hierarchies.[[arxiv](https://arxiv.org/pdf/1710.09767.pdf)]  2017.
+-  One-shot visual imitation learning via meta-learning. [[arxiv](One-shot visual imitation learning via meta-learning)] 2017.
+-  Learning to Compare: Relation Network for Few Shot Learning. [[arxiv](https://arxiv.org/pdf/1711.06025.pdf)] 2017.
+-  Human-level concept learning through probabilistic program induction.[[arxiv](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)]  2015.
+-  Neural task programming: Learning to generalize across hierarchical tasks. [[arxiv](https://arxiv.org/pdf/1710.01813.pdf)] 2017.
+-  Learning feed-forward one-shot learners. [[arxiv](https://arxiv.org/pdf/1606.05233.pdf)]
+-  Learning to learn: Model regression networks for easy small sample learning. [[arxiv](https://www.robots.ox.ac.uk/~vgg/rg/papers/eccv2016_learntolearn.pdf)] 2016.
 
 -------------
 
