@@ -66,27 +66,27 @@ Review papers-
 
 -------------
 
-- Meta-learning in reinforcement learning. 2003.
-- Learning to learn using gradient descent. 2001.
-- A meta-learning method based on temporal difference error.  2009.
-- Learning to learn: Introduction and overview.  1998.
--  Meta-learning with backpropagation.  2001.
--  A perspective view and survey of meta-learning.  2002.
--  Zero-data learning of new tasks.  2008.
-- One shot learning of simple visual concepts.  2011.
-- One-shot learning of object categories.  2006.
-- A neural network that embeds its own meta-levels.  1993.
--  Lifelong learning algorithms.  1998.
--  Learning a synaptic learning rule.  1990.
-- On the search for new learning rules for ANNs.  1995.
--  Learning many related tasks at the same time with backpropagation.  1995.
-- Introduction to the special issue on meta-learning.  2004.
--  Meta-learning in computational intelligence 2011.
-- Fixed-weight networks can learn.  1990.
+- Meta-learning in reinforcement learning. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.595.9882&rep=rep1&type=pdf)] 2003.
+- Learning to learn using gradient descent. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=39AFD770239F0DDE818EEF5BAEBB0814?doi=10.1.1.5.323&rep=rep1&type=pdf)] 2001.
+- A meta-learning method based on temporal difference error. [[paper](http://www.ist.aichi-pu.ac.jp/~koba/files/ICONIP09.pdf)]  2009.
+- Learning to learn: Introduction and overview. [[paper](https://link.springer.com/chapter/10.1007/978-1-4615-5529-2_1)]  1998.
+-  Meta-learning with backpropagation. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.3955&rep=rep1&type=pdf)]  2001.
+-  A perspective view and survey of meta-learning. [[paper](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning)]  2002.
+-  Zero-data learning of new tasks. [[paper](https://www.aaai.org/Papers/AAAI/2008/AAAI08-103.pdf)]  2008.
+- One shot learning of simple visual concepts. [[paper](https://cims.nyu.edu/~brenden/LakeEtAl2011CogSci.pdf)]  2011.
+- One-shot learning of object categories. [[paper](https://authors.library.caltech.edu/5407/1/LIFieeetpam06.pdf)] 2006.
+- A neural network that embeds its own meta-levels. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.4997&rep=rep1&type=pdf)]  1993.
+-  Lifelong learning algorithms. [[paper](https://link.springer.com/chapter/10.1007/978-1-4615-5529-2_8)]  1998.
+-  Learning a synaptic learning rule.  [[paper](http://bengio.abracadoudou.com/publications/pdf/bengio_1991_ijcnn.pdf)]  1990.
+- On the search for new learning rules for ANNs.  [[paper](http://bengio.abracadoudou.com/cv/publications/pdf/bengio_1995_npl.pdf)]  1995.
+-  Learning many related tasks at the same time with backpropagation. [[paper](https://pdfs.semanticscholar.org/210d/a45e57f86a50c04bdd7b37d498c8ecc288da.pdf)]  1995.
+- Introduction to the special issue on meta-learning. [[paper](http://www2.cs.uh.edu/~vilalta/papers/ml04.pdf)]  2004.
+-  Meta-learning in computational intelligence. [[paper](https://www.researchgate.net/publication/321613968_Meta-Learning_in_Computational_Intelligence)]  2011.
+- Fixed-weight networks can learn. [[paper](https://www.researchgate.net/publication/224755261_Fixed-weight_networks_can_learn)]   1990.
 - Evolutionary principles in self-referential learning; On learning how to learn: The meta-meta-...
-hook. 1987.
--  Learning to control fast-weight memories: An alternative to dynamic recurrent networks.Neural Computation,  1992.
--  Simple principles of metalearning.  1996.
--  Learning to learn.  1998.
+hook. [[paper](http://people.idsia.ch/~juergen/diploma.html)]  1987.
+-  Learning to control fast-weight memories: An alternative to dynamic recurrent networks.Neural Computation, [[paper](http://people.idsia.ch/~juergen/fastweights/ncfastweightsrev.html)]  1992.
+-  Simple principles of metalearning. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.2558&rep=rep1&type=pdf)]  1996.
+-  Learning to learn.  [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.2558&rep=rep1&type=pdf)]  1998.
 
 -------------
