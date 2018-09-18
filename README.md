@@ -11,7 +11,6 @@ Review papers-
 
 -  Meta-Learning for Semi-Supervised Few-Shot Classification.[[paper](https://openreview.net/pdf?id=HJcSzz-CZ)] ICLR 2018.
 -  Machine Theory of Mind. [[arxiv](https://arxiv.org/pdf/1802.07740.pdf)] (2018).
--  Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions. [[arxiv](https://arxiv.org/pdf/1710.10304.pdf)] (2017).
 -  Meta-Gradient Reinforcement Learning. [[arxiv](https://arxiv.org/pdf/1805.09801.pdf)] (2018).
 -  Learning a Prior over Intent via Meta-Inverse Reinforcement Learning. [[arxiv](https://arxiv.org/pdf/1805.12573.pdf)] (2018).
 -  Probabilistic Model-Agnostic Meta-Learning. [[arxiv](https://arxiv.org/pdf/1806.02817.pdf)] (2018).
@@ -29,7 +28,7 @@ Review papers-
 
 -------------
 
-
+-  Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions. [[arxiv](https://arxiv.org/pdf/1710.10304.pdf)] (2017).
 -  Learning to learn by gradient descent by gradient descent. [[arxiv](https://arxiv.org/abs/1606.04474)] , 2016
 -  Using fast weights to attend to the recent past. [[arxiv](https://arxiv.org/pdf/1610.06258.pdf)]  2016
 -  Hypernetworks. In ICLR 2017, [[arxiv](https://arxiv.org/pdf/1609.09106.pdf)] .
