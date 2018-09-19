@@ -9,7 +9,7 @@
 
 Review papers-
 
--  Meta-Learning for Semi-Supervised Few-Shot Classification.[[paper](https://openreview.net/pdf?id=HJcSzz-CZ)] ICLR 2018.
+-  Meta-Learning for Semi-Supervised Few-Shot Classification.[[paper](https://openreview.net/pdf?id=HJcSzz-CZ)] ICLR 2018. [[code](https://github.com/renmengye/few-shot-ssl-public)]
 -  Machine Theory of Mind. [[arxiv](https://arxiv.org/pdf/1802.07740.pdf)] (2018).
 -  Meta-Gradient Reinforcement Learning. [[arxiv](https://arxiv.org/pdf/1805.09801.pdf)] (2018).
 -  Learning a Prior over Intent via Meta-Inverse Reinforcement Learning. [[arxiv](https://arxiv.org/pdf/1805.12573.pdf)] (2018).
@@ -29,7 +29,7 @@ Review papers-
 -------------
 
 -  Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions. [[arxiv](https://arxiv.org/pdf/1710.10304.pdf)] (2017).
--  Learning to learn by gradient descent by gradient descent. [[arxiv](https://arxiv.org/abs/1606.04474)] , 2016
+-  Learning to learn by gradient descent by gradient descent. [[arxiv](https://arxiv.org/abs/1606.04474)] , 2016, [[code](https://github.com/ikostrikov/pytorch-meta-optimizer)]
 -  Using fast weights to attend to the recent past. [[arxiv](https://arxiv.org/pdf/1610.06258.pdf)]  2016
 -  Hypernetworks. In ICLR 2017, [[arxiv](https://arxiv.org/pdf/1609.09106.pdf)] .
 -  Siamese neural networks for one-shot image recognition. [[arxiv](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)]
@@ -44,19 +44,19 @@ Review papers-
 -  Towards a neural statistician.[[arxiv](https://arxiv.org/pdf/1606.02185.pdf)]  (ICLR), 2017.
 -  Actor-mimic: Deep multitask and transfer reinforcement learning. [[arxiv](https://arxiv.org/pdf/1511.06342.pdf)] (ICLR), 2016.
 -  Optimization as a model for few-shot learning. [[arxiv](https://openreview.net/pdf?id=rJY0-Kcll)] (ICLR), 2017.
--  Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.[[arxiv](https://arxiv.org/pdf/1703.03400.pdf)]
+-  Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.[[arxiv](https://arxiv.org/pdf/1703.03400.pdf)] , [[code](https://github.com/cbfinn/maml)], [[pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl)], [[code](https://github.com/cbfinn/maml_rl)]
 -  Learning to Learn for Global Optimization of Black Box Functions. [[arxiv](https://arxiv.org/pdf/1611.03824v1.pdf)]
 -  Meta Networks.[[arxiv](https://arxiv.org/pdf/1703.00837.pdf)]  2017.
 -  One-Shot Imitation Learning.[[arxiv](https://arxiv.org/pdf/1703.07326.pdf)]  2017.
 -  Active One-shot Learning.[[arxiv](https://arxiv.org/pdf/1702.06559.pdf)]  2017.
 -  Learned Optimizers that Scale and Generalize.[[arxiv](https://arxiv.org/pdf/1703.04813.pdf)]  2017.
 -  Low-shot visual object recognition (2016).[[arxiv](https://arxiv.org/pdf/1606.02819.pdf)]
--  Learning to reinforcement learn.[[arxiv](https://arxiv.org/pdf/1611.05763.pdf)]  2016.
+-  Learning to reinforcement learn.[[arxiv](https://arxiv.org/pdf/1611.05763.pdf)]  2016.  [[code](https://github.com/awjuliani/Meta-RL)]
 -  Learning to Learn: Meta-Critic Networks for Sample Efficient Learning. [[arxiv](https://arxiv.org/pdf/1706.09529.pdf)] 2017.
 -  Meta-SGD: Learning to Learn Quickly for Few Shot Learning. [[arxiv](https://arxiv.org/pdf/1707.09835.pdf)] 2017.
--  Meta-Learning with Temporal Convolutions.[[arxiv](https://arxiv.org/pdf/1707.03141.pdf)]  2017.
+-  Meta-Learning with Temporal Convolutions.[[arxiv](https://arxiv.org/pdf/1707.03141.pdf)]  2017. [[code](https://github.com/devsisters/TCML-tensorflow)]
 -  Meta Learning Shared Hierarchies.[[arxiv](https://arxiv.org/pdf/1710.09767.pdf)]  2017.
--  One-shot visual imitation learning via meta-learning. [[arxiv](One-shot visual imitation learning via meta-learning)] 2017.
+-  One-shot visual imitation learning via meta-learning. [[arxiv](https://arxiv.org/pdf/1709.04905.pdf)] 2017.  [[code](https://github.com/tianheyu927/mil)]
 -  Learning to Compare: Relation Network for Few Shot Learning. [[arxiv](https://arxiv.org/pdf/1711.06025.pdf)] 2017.
 -  Human-level concept learning through probabilistic program induction.[[arxiv](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)]  2015.
 -  Neural task programming: Learning to generalize across hierarchical tasks. [[arxiv](https://arxiv.org/pdf/1710.01813.pdf)] 2017.
