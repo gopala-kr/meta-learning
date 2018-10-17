@@ -6,7 +6,7 @@
 
 --------------
 
-|| [maml_rl](https://github.com/cbfinn/maml_rl) |
+|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) |
 
 -------------------
 
