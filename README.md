@@ -6,7 +6,7 @@
 
 --------------
 
-|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) |
+|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) |
 
 -------------------
 
