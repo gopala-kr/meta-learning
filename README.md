@@ -13,6 +13,7 @@
 
 Review papers-
 
+- [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf)
 - [AlphaX: eXploring Neural Architectures with Deep
 Neural Networks and Monte Carlo Tree Search](https://arxiv.org/pdf/1805.07440v1.pdf)
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055v1.pdf)
