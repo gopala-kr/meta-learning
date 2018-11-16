@@ -13,6 +13,8 @@
 
 Review papers-
 
+- [Taking Human out of Learning Applications: A
+Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf)
 - [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf)
 - [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/pdf/1806.10282v2.pdf)
 - [Visual Analytics for Automated Model Discovery](https://arxiv.org/pdf/1809.10782v2.pdf)
