@@ -11,7 +11,7 @@
 -------------------
 
 
-Review papers-
+Review papers
 
 - [Taking Human out of Learning Applications: A
 Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf)
