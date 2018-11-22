@@ -14,17 +14,17 @@
 Review papers
 
 - [Taking Human out of Learning Applications: A
-Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf)
-- [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf)
-- [DSO-NAS](https://arxiv.org/pdf/1811.01567v1.pdf)
-- [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/pdf/1806.10282v2.pdf)
-- [Visual Analytics for Automated Model Discovery](https://arxiv.org/pdf/1809.10782v2.pdf)
+Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf) (2018)
+- [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf) (2018)
+- [DSO-NAS](https://arxiv.org/pdf/1811.01567v1.pdf) (2018)
+- [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/pdf/1806.10282v2.pdf) (2018)
+- [Visual Analytics for Automated Model Discovery](https://arxiv.org/pdf/1809.10782v2.pdf) (2018)
 - [AlphaX: eXploring Neural Architectures with Deep
-Neural Networks and Monte Carlo Tree Search](https://arxiv.org/pdf/1805.07440v1.pdf)
-- [DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055v1.pdf)
-- [Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search](https://arxiv.org/abs/1807.06906v1)
+Neural Networks and Monte Carlo Tree Search](https://arxiv.org/pdf/1805.07440v1.pdf) (2018)
+- [DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055v1.pdf) (2018)
+- [Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search](https://arxiv.org/abs/1807.06906v1) (2018)
 - [Fast Neural Architecture Search of Compact Semantic Segmentation Models
-via Auxiliary Cells∗](https://arxiv.org/pdf/1810.10804v1.pdf)
+via Auxiliary Cells∗](https://arxiv.org/pdf/1810.10804v1.pdf) (2018)
 -  Meta-Learning for Semi-Supervised Few-Shot Classification.[[paper](https://openreview.net/pdf?id=HJcSzz-CZ)] ICLR 2018. [[code](https://github.com/renmengye/few-shot-ssl-public)]
 -  Machine Theory of Mind. [[arxiv](https://arxiv.org/pdf/1802.07740.pdf)] (2018).
 -  Meta-Gradient Reinforcement Learning. [[arxiv](https://arxiv.org/pdf/1805.09801.pdf)] (2018).
