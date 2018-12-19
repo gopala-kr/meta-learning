@@ -13,6 +13,7 @@
 
 Review papers
 
+- [Rethink and Redesign Meta learning](https://arxiv.org/abs/1812.04955v2) (2018)
 - [Taking Human out of Learning Applications: A
 Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf) (2018)
 - [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf) (2018)
