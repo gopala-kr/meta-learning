@@ -13,8 +13,8 @@
 
 Review papers
 
-- [Meta Reinforcement Learning with Distribution of Exploration Parameters Learned by Evolution Strategies](https://arxiv.org/abs/1812.11314v1)
-- [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1)
+- [Meta Reinforcement Learning with Distribution of Exploration Parameters Learned by Evolution Strategies](https://arxiv.org/abs/1812.11314v1) (2018)
+- [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1) (2018)
 - [Rethink and Redesign Meta learning](https://arxiv.org/abs/1812.04955v2) (2018)
 - [Taking Human out of Learning Applications: A
 Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf) (2018)
