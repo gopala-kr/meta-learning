@@ -6,21 +6,30 @@
 
 --------------
 
-|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) | [supervised-reptile](https://github.com/openai/supervised-reptile) | [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) | [metacar](https://github.com/thibo73800/metacar) | [pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer) | [TCML-tensorflow](https://github.com/devsisters/TCML-tensorflow) ||
+|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) | [supervised-reptile](https://github.com/openai/supervised-reptile) | [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) | [metacar](https://github.com/thibo73800/metacar) | [pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer) | [TCML-tensorflow](https://github.com/devsisters/TCML-tensorflow) | [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) | [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) ||
 
-| [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) | [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) |
+
 
 -------------------
 
 
 Review papers
 
+
+- [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074v2) (2019)
+
+------------------------
 - [Meta Reinforcement Learning with Distribution of Exploration Parameters Learned by Evolution Strategies](https://arxiv.org/abs/1812.11314v1) (2018)
 - [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1) (2018)
 - [Rethink and Redesign Meta learning](https://arxiv.org/abs/1812.04955v2) (2018)
 - [Taking Human out of Learning Applications: A
 Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf) (2018)
 - [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf) (2018)
+- [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926v1) (2018)
+- [A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search](https://arxiv.org/abs/1812.07995v1)
+- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443v2)
+- [Evolutionary Neural Architecture Search for Image Restoration](https://arxiv.org/abs/1812.05866v1)
+- [MONAS: Multi-Objective Neural Architecture Search using Reinforcement Learning](https://arxiv.org/abs/1806.10332v2)
 - [DSO-NAS](https://arxiv.org/pdf/1811.01567v1.pdf) (2018)
 - [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/pdf/1806.10282v2.pdf) (2018)
 - [Visual Analytics for Automated Model Discovery](https://arxiv.org/pdf/1809.10782v2.pdf) (2018)
