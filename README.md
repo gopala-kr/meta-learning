@@ -121,3 +121,6 @@ hook. [[paper](http://people.idsia.ch/~juergen/diploma.html)]  1987.
 -  Learning to learn.  [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.2558&rep=rep1&type=pdf)]  1998.
 
 -------------
+**Maintainer**
+
+Gopala KR / @gopala-kr
