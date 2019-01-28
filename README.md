@@ -21,6 +21,8 @@ Review papers
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261v2) (2019)
 
 ------------------------
+
+- [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1)
 - [Meta Reinforcement Learning with Distribution of Exploration Parameters Learned by Evolution Strategies](https://arxiv.org/abs/1812.11314v1) (2018)
 - [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1) (2018)
 - [Rethink and Redesign Meta learning](https://arxiv.org/abs/1812.04955v2) (2018)
