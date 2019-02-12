@@ -19,6 +19,7 @@ Review papers
 - [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074v2) (2019)
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884v1) (2019)
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261v2) (2019)
+- [Hierarchical Critics Assignment for Multi-agent Reinforcement Learning](https://arxiv.org/abs/1902.03079v1)
 
 ------------------------
 
