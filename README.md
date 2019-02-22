@@ -23,6 +23,8 @@ Review papers
 - [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671v1) (2019)
 - [CESMA: Centralized Expert Supervises Multi-Agents](https://arxiv.org/abs/1902.02311v2) (2019)
 - [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116v1) (2019)
+- [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638v1) (2019)
+- [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142v1)
 
 ------------------------
 
