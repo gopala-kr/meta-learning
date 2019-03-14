@@ -6,7 +6,7 @@
 
 --------------
 
-|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) | [supervised-reptile](https://github.com/openai/supervised-reptile) | [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) | [metacar](https://github.com/thibo73800/metacar) | [pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer) | [TCML-tensorflow](https://github.com/devsisters/TCML-tensorflow) | [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) | [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) | [Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers) ||
+|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) | [supervised-reptile](https://github.com/openai/supervised-reptile) | [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) | [metacar](https://github.com/thibo73800/metacar) | [pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer) | [TCML-tensorflow](https://github.com/devsisters/TCML-tensorflow) | [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) | [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) | [Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers) | [awesome-NAS](https://github.com/D-X-Y/awesome-NAS) ||
 
 
 
