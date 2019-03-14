@@ -28,7 +28,9 @@ Review papers
 - [Evolutionary Neural AutoML for Deep Learning](https://arxiv.org/abs/1902.06827v1) (2019)
 - [AutoQB: AutoML for Network Quantization and Binarization on Mobile Devices](https://arxiv.org/abs/1902.05690v1) (2019)
 - [Online Meta-Learning](https://arxiv.org/pdf/1902.08438v1.pdf) (2019)
-- [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635v1)
+- [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635v1) (2019)
+- [Concurrent Meta Reinforcement Learning](https://arxiv.org/abs/1903.02710v1) (2019)
+- [NoRML: No-Reward Meta Learning](https://arxiv.org/abs/1903.01063v1) (2019)
 
 ------------------------
 
