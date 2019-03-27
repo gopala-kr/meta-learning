@@ -32,6 +32,7 @@ Review papers
 - [Concurrent Meta Reinforcement Learning](https://arxiv.org/abs/1903.02710v1) (2019)
 - [NoRML: No-Reward Meta Learning](https://arxiv.org/abs/1903.01063v1) (2019)
 - [Provable Guarantees for Gradient-Based Meta-Learning](https://arxiv.org/abs/1902.10644v1) (2019)
+- [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258v1) (2019)
 
 ------------------------
 
