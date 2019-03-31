@@ -34,6 +34,7 @@ Review papers
 - [Provable Guarantees for Gradient-Based Meta-Learning](https://arxiv.org/abs/1902.10644v1) (2019)
 - [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258v1) (2019)
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979v1) (2019)
+- [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/abs/1903.11059v1) (2019)
 
 ------------------------
 
