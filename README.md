@@ -35,6 +35,8 @@ Review papers
 - [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258v1) (2019)
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979v1) (2019)
 - [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/abs/1903.11059v1) (2019)
+- [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123v1)
+
 
 ------------------------
 
