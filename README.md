@@ -37,6 +37,7 @@ Review papers
 - [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/abs/1903.11059v1) (2019)
 - [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123v1) (2019)
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v2) (2019)
+- [Meta-Learning surrogate models for sequential decision making](https://arxiv.org/abs/1903.11907v1) (2019)
 
 ------------------------
 
