@@ -39,8 +39,8 @@ Review papers
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v2) (2019)
 - [Meta-Learning surrogate models for sequential decision making](https://arxiv.org/abs/1903.11907v1) (2019)
 - [Hierarchical Meta Learning](https://arxiv.org/abs/1904.09081v1) (2019)
-- [AM-LFS: AutoML for Loss Function Search](https://arxiv.org/abs/1905.07375v1)
-
+- [AM-LFS: AutoML for Loss Function Search](https://arxiv.org/abs/1905.07375v1) (2019)
+- [Meta-Learning with Latent Embedding Optimization](https://arxiv.org/abs/1807.05960)  (2019) [[Code](https://github.com/deepmind/leo)]
 ------------------------
 
 - [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1)
