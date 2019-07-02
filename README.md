@@ -81,7 +81,7 @@ via Auxiliary Cells∗](https://arxiv.org/pdf/1810.10804v1.pdf) (2018)
 -  Some considerations on learning to explore via meta-reinforcement learning. [[arxiv](https://arxiv.org/pdf/1803.01118.pdf)] (2018).
 -  Meta-learning with differentiable closed-form solvers. [[arxiv](https://arxiv.org/pdf/1805.08136.pdf)] (2018).
 -  Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace. [[arxiv](https://arxiv.org/pdf/1801.05558.pdf)] ICML 2018.
-
+-  Densely Connected Search Space for More Flexible Neural Architecture Search [[arxiv](https://arxiv.org/abs/1906.09607v1)] (2019)
 
 -------------
 
@@ -149,3 +149,4 @@ hook. [[paper](http://people.idsia.ch/~juergen/diploma.html)]  1987.
 **Maintainer**
 
 Gopala KR / @gopala-kr
+Will 
