@@ -43,6 +43,14 @@ Review papers
 - [Meta-Learning with Latent Embedding Optimization](https://arxiv.org/abs/1807.05960)  (2019) [[Code](https://github.com/deepmind/leo)] 
 - [A Survey on Neural Architecture Search](https://arxiv.org/abs/1905.01392v2) (2019)
 - [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423v2) (2019)
+-  Densely Connected Search Space for More Flexible Neural Architecture Search [[arxiv](https://arxiv.org/abs/1906.09607v1)] (2019)
+- [XNAS: Neural Architecture Search with Expert Advice](https://arxiv.org/abs/1906.08031v1)
+- [A Study of the Learning Progress in Neural Architecture Search Techniques](https://arxiv.org/abs/1906.07590v1)
+- [Sample-Efficient Neural Architecture Search by Learning Action Space](https://arxiv.org/abs/1906.06832v1)
+- [Scalable Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1906.05956v1)
+- [BayesNAS: A Bayesian Approach for Neural Architecture Search](https://arxiv.org/abs/1905.04919v2)
+- [One-Shot Neural Architecture Search via Compressive Sensing](https://arxiv.org/abs/1906.02869v1)
+- [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817v1)
 
 ------------------------
 
@@ -84,7 +92,7 @@ via Auxiliary Cells∗](https://arxiv.org/pdf/1810.10804v1.pdf) (2018)
 -  Some considerations on learning to explore via meta-reinforcement learning. [[arxiv](https://arxiv.org/pdf/1803.01118.pdf)] (2018).
 -  Meta-learning with differentiable closed-form solvers. [[arxiv](https://arxiv.org/pdf/1805.08136.pdf)] (2018).
 -  Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace. [[arxiv](https://arxiv.org/pdf/1801.05558.pdf)] ICML 2018.
--  Densely Connected Search Space for More Flexible Neural Architecture Search [[arxiv](https://arxiv.org/abs/1906.09607v1)] (2019)
+- [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626v3)
 
 -------------
 
