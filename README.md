@@ -44,13 +44,14 @@ Review papers
 - [A Survey on Neural Architecture Search](https://arxiv.org/abs/1905.01392v2) (2019)
 - [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423v2) (2019)
 -  Densely Connected Search Space for More Flexible Neural Architecture Search [[arxiv](https://arxiv.org/abs/1906.09607v1)] (2019)
-- [XNAS: Neural Architecture Search with Expert Advice](https://arxiv.org/abs/1906.08031v1)
-- [A Study of the Learning Progress in Neural Architecture Search Techniques](https://arxiv.org/abs/1906.07590v1)
-- [Sample-Efficient Neural Architecture Search by Learning Action Space](https://arxiv.org/abs/1906.06832v1)
-- [Scalable Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1906.05956v1)
-- [BayesNAS: A Bayesian Approach for Neural Architecture Search](https://arxiv.org/abs/1905.04919v2)
-- [One-Shot Neural Architecture Search via Compressive Sensing](https://arxiv.org/abs/1906.02869v1)
-- [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817v1)
+- [XNAS: Neural Architecture Search with Expert Advice](https://arxiv.org/abs/1906.08031v1) (2019)
+- [A Study of the Learning Progress in Neural Architecture Search Techniques](https://arxiv.org/abs/1906.07590v1) (2019)
+- [Sample-Efficient Neural Architecture Search by Learning Action Space](https://arxiv.org/abs/1906.06832v1) (2019)
+- [Scalable Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1906.05956v1) (2019)
+- [BayesNAS: A Bayesian Approach for Neural Architecture Search](https://arxiv.org/abs/1905.04919v2) (2019)
+- [One-Shot Neural Architecture Search via Compressive Sensing](https://arxiv.org/abs/1906.02869v1) (2019)
+- [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817v1) (2019)
+- [A Neural Architecture for Designing Truthful and Efficient Auctions](https://arxiv.org/pdf/1907.05181v1.pdf) (2019)
 
 ------------------------
 
