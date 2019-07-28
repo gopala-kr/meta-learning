@@ -52,10 +52,12 @@ Review papers
 - [One-Shot Neural Architecture Search via Compressive Sensing](https://arxiv.org/abs/1906.02869v1) (2019)
 - [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817v1) (2019)
 - [A Neural Architecture for Designing Truthful and Efficient Auctions](https://arxiv.org/pdf/1907.05181v1.pdf) (2019)
-- [Efficient Novelty-Driven Neural Architecture Search](https://arxiv.org/pdf/1907.09109v1.pdf)
-- [XferNAS: Transfer Neural Architecture Search](https://arxiv.org/abs/1907.08307v1)
-- [EPNAS: Efficient Progressive Neural Architecture Search](https://arxiv.org/abs/1907.04648v1)
-- [MemNet: Memory-Efficiency Guided Neural Architecture Search with Augment-Trim learning](https://arxiv.org/pdf/1907.09569v1.pdf)
+- [Efficient Novelty-Driven Neural Architecture Search](https://arxiv.org/pdf/1907.09109v1.pdf) (2019)
+- [XferNAS: Transfer Neural Architecture Search](https://arxiv.org/abs/1907.08307v1) (2019)
+- [EPNAS: Efficient Progressive Neural Architecture Search](https://arxiv.org/abs/1907.04648v1) (2019)
+- [MemNet: Memory-Efficiency Guided Neural Architecture Search with Augment-Trim learning](https://arxiv.org/pdf/1907.09569v1.pdf) (2019)
+- [One-Shot Neural Architecture Search Through A Posteriori Distribution Guided Sampling](https://arxiv.org/abs/1906.09557v1) (2019)
+- [FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search](https://arxiv.org/abs/1907.01845v1) (2019)
 
 ------------------------
 
