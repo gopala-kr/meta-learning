@@ -52,6 +52,9 @@ Review papers
 - [One-Shot Neural Architecture Search via Compressive Sensing](https://arxiv.org/abs/1906.02869v1) (2019)
 - [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817v1) (2019)
 - [A Neural Architecture for Designing Truthful and Efficient Auctions](https://arxiv.org/pdf/1907.05181v1.pdf) (2019)
+- [Efficient Novelty-Driven Neural Architecture Search](https://arxiv.org/pdf/1907.09109v1.pdf)
+- [XferNAS: Transfer Neural Architecture Search](https://arxiv.org/abs/1907.08307v1)
+
 
 ------------------------
 
