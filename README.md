@@ -58,7 +58,7 @@ Review papers
 - [MemNet: Memory-Efficiency Guided Neural Architecture Search with Augment-Trim learning](https://arxiv.org/pdf/1907.09569v1.pdf) (2019)
 - [One-Shot Neural Architecture Search Through A Posteriori Distribution Guided Sampling](https://arxiv.org/abs/1906.09557v1) (2019)
 - [FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search](https://arxiv.org/abs/1907.01845v1) (2019)
-
+- [Towards meta-learning for multi-target regression problems](https://arxiv.org/abs/1907.11277v1)
 ------------------------
 
 - [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1)
