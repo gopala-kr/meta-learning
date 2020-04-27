@@ -21,7 +21,10 @@ Review papers
 - [Learning Meta Model for Zero- and Few-shot Face Anti-spoofing](https://arxiv.org/abs/1904.12490v3)
 - [Meta Reinforcement Learning from observational data](https://arxiv.org/abs/1909.11373v2)
 - [Meta Learning for End-to-End Low-Resource Speech Recognition](https://arxiv.org/abs/1910.12094v1)
-
+- [Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating](https://arxiv.org/abs/1910.08234v2)
+- [Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation](https://arxiv.org/abs/1909.13046v1)
+- [Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning](https://arxiv.org/abs/1909.13032v1)
+- [Improving Federated Learning Personalization via Model Agnostic Meta Learning](https://arxiv.org/abs/1909.12488v1)
 
 ----------------
 - [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074v2) (2019)
