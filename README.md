@@ -25,6 +25,10 @@ Review papers
 - [Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation](https://arxiv.org/abs/1909.13046v1)
 - [Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning](https://arxiv.org/abs/1909.13032v1)
 - [Improving Federated Learning Personalization via Model Agnostic Meta Learning](https://arxiv.org/abs/1909.12488v1)
+- [Meta Learning with Relational Information for Short Sequences](https://arxiv.org/abs/1909.02105v1)
+- [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://arxiv.org/abs/1909.01515v1)
+- [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258v3)
+- [Meta Learning for Task-Driven Video Summarization](https://arxiv.org/abs/1907.12342v1)
 
 ----------------
 - [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074v2) (2019)
