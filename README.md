@@ -15,7 +15,15 @@
 
 Review papers
 
+- [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215v3)
+- [Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies](https://arxiv.org/abs/2001.00248v1)
+- [Learning to Recommend via Meta Parameter Partition](https://arxiv.org/abs/1912.04108v1)
+- [Learning Meta Model for Zero- and Few-shot Face Anti-spoofing](https://arxiv.org/abs/1904.12490v3)
+- [Meta Reinforcement Learning from observational data](https://arxiv.org/abs/1909.11373v2)
+- [Meta Learning for End-to-End Low-Resource Speech Recognition](https://arxiv.org/abs/1910.12094v1)
 
+
+----------------
 - [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074v2) (2019)
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884v1) (2019)
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261v2) (2019)
