@@ -15,6 +15,10 @@
 
 Review papers
 
+- [MGHRL: Meta Goal-generation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1909.13607v4.pdf)
+
+--------
+
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215v3)
 - [Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies](https://arxiv.org/abs/2001.00248v1)
 - [Learning to Recommend via Meta Parameter Partition](https://arxiv.org/abs/1912.04108v1)
