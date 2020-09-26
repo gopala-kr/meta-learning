@@ -18,6 +18,7 @@ Review papers
 - [MGHRL: Meta Goal-generation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1909.13607v4.pdf)
 - [Meta-Graph: Few Shot Link Prediction via Meta Learning](https://arxiv.org/pdf/1912.09867.pdf) | [Meta-Graph](https://github.com/joeybose/Meta-Graph)
 - [A Survey on Evolutionary Neural Architecture Search](https://arxiv.org/pdf/2008.10937v1.pdf)
+- [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/pdf/2004.05439v1.pdf)
 --------
 
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215v3)
