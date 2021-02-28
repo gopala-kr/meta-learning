@@ -17,8 +17,11 @@ Review papers
 
 
 -----------
+- [A Brief Survey of Associations Between Meta-Learning and General AI](https://arxiv.org/pdf/2101.04283v1.pdf)
 - [Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning](https://arxiv.org/pdf/2102.12920v1.pdf)
 - [Multi-Objective Meta Learning](https://arxiv.org/pdf/2102.07121v1.pdf)
+- [Meta-Reinforcement Learning for Adaptive Motor Control in Changing
+Robot Dynamics and Environments](https://arxiv.org/pdf/2101.07599v1.pdf)
 - [CATCH: Context-based Meta Reinforcement Learning for Transferrable Architecture Search](https://arxiv.org/abs/2007.09380v3)
 - [MGHRL: Meta Goal-generation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1909.13607v4.pdf)
 - [Meta-Graph: Few Shot Link Prediction via Meta Learning](https://arxiv.org/pdf/1912.09867.pdf) | [Meta-Graph](https://github.com/joeybose/Meta-Graph)
