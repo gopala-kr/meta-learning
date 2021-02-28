@@ -6,7 +6,7 @@
 
 --------------
 
-|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) | [supervised-reptile](https://github.com/openai/supervised-reptile) | [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) | [metacar](https://github.com/thibo73800/metacar) | [pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer) | [TCML-tensorflow](https://github.com/devsisters/TCML-tensorflow) | [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) | [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) | [Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers) | [awesome-NAS](https://github.com/D-X-Y/awesome-NAS) | [google-research/nasbench](https://github.com/google-research/nasbench) | [[AlphaX-NASBench101](https://github.com/linnanwang/AlphaX-NASBench101)] | [paperswithcode: meta-learning](https://paperswithcode.com/task/meta-learning) | [paperswithcode: architecture-search](https://paperswithcode.com/task/architecture-search) | [Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) | [Hands-On Meta Learning With Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python ||
+|| [maml_rl](https://github.com/cbfinn/maml_rl) | [Meta-RL](https://github.com/awjuliani/Meta-RL) | [learning-to-learn](https://github.com/deepmind/learning-to-learn) | [supervised-reptile](https://github.com/openai/supervised-reptile) | [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) | [metacar](https://github.com/thibo73800/metacar) | [pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer) | [TCML-tensorflow](https://github.com/devsisters/TCML-tensorflow) | [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) | [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) | [Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers) | [awesome-NAS](https://github.com/D-X-Y/awesome-NAS) | [google-research/nasbench](https://github.com/google-research/nasbench) | [[AlphaX-NASBench101](https://github.com/linnanwang/AlphaX-NASBench101)] | [paperswithcode: meta-learning](https://paperswithcode.com/task/meta-learning) | [paperswithcode: architecture-search](https://paperswithcode.com/task/architecture-search) | [Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) | [Hands-On Meta Learning With Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python) ||
 
 
 
@@ -14,6 +14,11 @@
 
 
 Review papers
+
+
+-----------
+- [Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning](https://arxiv.org/pdf/2102.12920v1.pdf)
+- [Multi-Objective Meta Learning](https://arxiv.org/pdf/2102.07121v1.pdf)
 - [CATCH: Context-based Meta Reinforcement Learning for Transferrable Architecture Search](https://arxiv.org/abs/2007.09380v3)
 - [MGHRL: Meta Goal-generation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1909.13607v4.pdf)
 - [Meta-Graph: Few Shot Link Prediction via Meta Learning](https://arxiv.org/pdf/1912.09867.pdf) | [Meta-Graph](https://github.com/joeybose/Meta-Graph)
