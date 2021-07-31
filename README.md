@@ -34,6 +34,9 @@ Robot Dynamics and Environments](https://arxiv.org/pdf/2101.07599v1.pdf)
 - [A Novel Evolutionary Algorithm for Hierarchical Neural Architecture Search](https://arxiv.org/pdf/2107.08484v1.pdf)
 - [Bag of Tricks for Neural Architecture Search](https://arxiv.org/pdf/2107.03719v1.pdf)
 - [Generative Adversarial Neural Architecture Search](https://arxiv.org/pdf/2105.09356v3.pdf)
+- [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/pdf/2105.14444v1.pdf)
+
+
 --------
 
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215v3)
