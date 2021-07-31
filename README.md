@@ -30,6 +30,9 @@ Robot Dynamics and Environments](https://arxiv.org/pdf/2101.07599v1.pdf)
 - [NAAS: Neural Accelerator Architecture Search](https://arxiv.org/pdf/2105.13258.pdf)
 - [A Brief Summary of Interactions Between Meta-Learning and Self-Supervised Learning](https://arxiv.org/pdf/2103.00845.pdf)
 
+-----------
+- [A Novel Evolutionary Algorithm for Hierarchical Neural Architecture Search](https://arxiv.org/pdf/2107.08484v1.pdf)
+- 
 --------
 
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215v3)
